@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "511379054647",
+    "firebase_url": "https://cheque-scanning-7a839.firebaseio.com",
+    "project_id": "cheque-scanning-7a839",
+    "storage_bucket": "cheque-scanning-7a839.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511379054647:android:3b404ad104f53aaf399fb2",
+        "android_client_info": {
+          "package_name": "com.innov.chequescan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511379054647-sttce8ll0g0emdhpebegf85bk89um27l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9dHWrD5ZS-gxEiIH1Zerdo8EUKipqMJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511379054647-sttce8ll0g0emdhpebegf85bk89um27l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
